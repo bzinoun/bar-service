@@ -1,0 +1,17 @@
+{
+    "fluentMethods": true,
+    "relationships": [],
+    "fields": [
+        {
+            "fieldName": "bar",
+            "fieldType": "Integer"
+        }
+    ],
+    "changelogDate": "20170111162315",
+    "dto": "mapstruct",
+    "service": "serviceImpl",
+    "entityTableName": "bar",
+    "pagination": "no",
+    "microserviceName": "bar",
+    "searchEngine": false
+}
